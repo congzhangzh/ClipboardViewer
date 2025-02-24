@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net5.0-windows;net48</TargetFrameworks>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <NullableContextOptions>enable</NullableContextOptions>
     <WarningsAsErrors>$(WarningsAsErrors);CS8600;CS8602;CS8603;CS8618;CS8625</WarningsAsErrors>
